@@ -1,5 +1,5 @@
 {
-  "name": "yjs",
+  "name": "@tencent/yjs",
   "version": "13.5.28",
   "description": "Shared Editing Library",
   "main": "./dist/yjs.cjs",
